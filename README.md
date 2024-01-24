@@ -1,1 +1,1 @@
-# e-shopping--react
+# e-shopping-react
